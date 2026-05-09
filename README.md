@@ -10,7 +10,6 @@ Main datasets:
 
 ## Project Structure
 scripts/       - data cleaning and analysis scripts
-               - current: 01_summary_statistics
 data_raw/      - (not tracked) raw data  
 data_clean/    - processed data  
 output/        - tables and figures 
