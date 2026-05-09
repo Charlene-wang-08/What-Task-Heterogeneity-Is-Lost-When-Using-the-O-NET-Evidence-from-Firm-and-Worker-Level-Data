@@ -4,7 +4,7 @@ library(arrow)
 github_data <- read_parquet("C10_02_GitHub_task_count.parquet")
 
 # Inspect Data Structure #####
-nrow(github_data)
+nrow(github_data) #1179111 observations
 colnames(github_data)
 #View by each variable
 n_distinct(github_data$repo_lower)
