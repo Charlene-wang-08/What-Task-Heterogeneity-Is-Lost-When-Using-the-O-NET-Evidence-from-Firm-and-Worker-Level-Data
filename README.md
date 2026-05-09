@@ -4,12 +4,12 @@
 - Project Aim: This project aims to analyze what heterogeneity is lost when using O*NET rather than firm-specific information and understand the implications of its limitations. The paper can inform policymakers and firms about whether occupation-level task measures used in labor research accurately reflect how work is organized within firms, which has implications for training policies and workplace automation. It helps interpret past findings in the task-based labor literature and guides future research on technology, specialization, and productivity as new data sources increasingly allow task measurement at the firm and worker level.
 - Available Data: Github Dataset (2023) and the O*NET
 - Project Structure:
-```text
-data_raw/      unprocessed raw datasets
-scripts/       data cleaning and analysis scripts
-data_clean/    processed datasets
-output/        tables and figures
-```
+  ```text
+  data_raw/      unprocessed raw datasets
+  scripts/       data cleaning and analysis scripts
+  data_clean/    processed datasets
+  output/        tables and figures
+  ```
 ## Data Availability Statement
 - The main Github Dataset used in this project is obtained from Dr. Jinci Liu, as part of her working paper, How does the Division of Labor Affect Team Productivity? Evidence from GitHub. The master data is constructed by a panel of 35 million code files, 292,840 developers, and 64,400 teams over seven years from GitHub, the world’s largest online coding platform. This granular data captures individual activity, specifying who engages in particular files and at which point in time, enabling the construction of novel measures for team specialization and productivity at a team-month level.
 - The part of the master dataset used by this specific project is restricted to the year 2023, and restricted to task counts of each repository/team by month and task type. 
