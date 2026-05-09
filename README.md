@@ -1,9 +1,7 @@
 # What Task Heterogeneity Is Lost When Using the O*NET? Evidence from Firm and Worker-Level Data
-# O*NET and Masked Task Heterogeneity
 
 ## Overview
-This project aims to analyze what heterogeneity is lost when using O*NET rather than firm-specific information and understand the implications of its limitations. 
-It helps interpret past findings in the task-based labor literature and guides future research on technology, specialization, and productivity as new data sources increasingly allow task measurement at the firm and worker level. 
+This project aims to analyze what heterogeneity is lost when using O*NET rather than firm-specific information and understand the implications of its limitations. The paper can inform policymakers and firms about whether occupation-level task measures used in labor research accurately reflect how work is organized within firms, which has implications for training policies and workplace automation. It helps interpret past findings in the task-based labor literature and guides future research on technology, specialization, and productivity as new data sources increasingly allow task measurement at the firm and worker level.
 
 ## Data
 Main datasets:
@@ -11,7 +9,8 @@ Main datasets:
 - O*NET task mapping
 
 ## Project Structure
-scripts/       - data cleaning and analysis scripts  
+scripts/       - data cleaning and analysis scripts
+               - current: 01_summary_statistics
 data_raw/      - (not tracked) raw data  
 data_clean/    - processed data  
 output/        - tables and figures 
