@@ -9,10 +9,11 @@ Main datasets:
 - O*NET task mapping
 
 ## Project Structure
-scripts/       - data cleaning and analysis scripts
-data_raw/      - (not tracked) raw data  
-data_clean/    - processed data  
-output/        - tables and figures 
+- scripts/       data cleaning and analysis scripts
+- data_raw/      (not tracked) raw data  
+- data_clean/    processed data  
+- output/        tables and figures 
 
 ## Notes
 - Use relative paths (RStudio project: 26 Summer Onet Project)
+- Current progress as of 05/09/26: scripts/01_summary_stats
