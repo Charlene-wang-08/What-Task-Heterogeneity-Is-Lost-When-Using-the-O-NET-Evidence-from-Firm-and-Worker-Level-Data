@@ -31,5 +31,5 @@
 -	Note: currently just got to 01_summary_stats so this is in progress
 -	Specifying the instructions allowing a replicator to produce the same results, separately for data preparation and analysis
 
-## Reference of Readme Format (AEA Suggested)
+## Reference of Readme Format (AEA)
 https://social-science-data-editors.github.io/template_README/
