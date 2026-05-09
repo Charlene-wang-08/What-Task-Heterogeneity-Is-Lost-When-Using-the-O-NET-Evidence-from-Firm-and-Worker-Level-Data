@@ -1,4 +1,4 @@
-# O-Net-and-its-masked-heterogeneity-Summer-Project-in-Applied-Microeconomics
+# What Task Heterogeneity Is Lost When Using the O*NET? Evidence from Firm and Worker-Level Data
 # O*NET and Masked Task Heterogeneity
 
 ## Overview
