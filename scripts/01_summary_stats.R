@@ -151,7 +151,7 @@ mean(github_data$repo_task_count > 2000)
 
 ##We conclude that a majority of the outliers lie between Task Count=1000-2000. 
 
-##Check if there are errors
+# Error Check ####
 #Are there missing values? No.
 colSums(is.na(github_data))
 #Are there duplicate rows? No. 
